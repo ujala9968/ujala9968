@@ -1,9 +1,9 @@
-<h1 align="center">Hey This is Ujala Saroj</h1>
+<h1 align="center">Hey👋, This is Ujala Saroj</h1>
 <h3 align="center">I’m a Prefinal year  Computer Science student passionate about problem-solving and exploring AI-driven solutions</h3>
 
 - 🔭 I’m currently working on **Credit Card Fraud Detection app**
 
-- 🌱 I’m currently learning **DSA with Python on NPTEL**
+- 🌱 I’m currently learning **Data Structure and algorithm on NPTEL**
 
 - 📫 How to reach me **ujalasaroj9968@gmail.com**
 
