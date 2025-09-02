@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ujala Saroj</h1>
-<h3 align="center">Prefinal year student at MIPS</h3>
+<h1 align="center">Hey This is Ujala Saroj</h1>
+<h3 align="center">I’m a Prefinal year  Computer Science student passionate about problem-solving and exploring AI-driven solutions</h3>
 
 - 🔭 I’m currently working on **Credit Card Fraud Detection app**
 
