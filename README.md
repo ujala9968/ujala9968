@@ -1,4 +1,5 @@
-[![MasterHead]("https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif")]
+[!![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+
 
 <h1 align="center">Hey👋, This is Ujala Saroj</h1>
 <h3 align="center">I’m a Prefinal year  Computer Science student passionate about problem-solving and exploring AI-driven solutions</h3>
