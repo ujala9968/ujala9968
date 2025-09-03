@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JygmDeB4xKC0efUDEh1hwgO_9xHF73CZ/view?usp=drivesdk](https://drive.google.com/file/d/1JygmDeB4xKC0efUDEh1hwgO_9xHF73CZ/view?usp=drivesdk)
 
-- ⚡ Fun fact **I once debugged an issue for half an hours, only to realize it was a missing semicolon.**
+- ⚡ Fun fact **I once debugged an issue for half an hour, only to realize it was a missing semicolon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
