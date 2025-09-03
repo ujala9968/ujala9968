@@ -7,6 +7,7 @@
 
 ---
 
+### 👩‍💻 About Me  
 - 🔭 I’m currently focusing on **deepening my knowledge in DSA, AI, and problem-solving**  
 - 🌱 I’m currently learning **Data Structures and Algorithms on NPTEL**  
 - 📫 Reach me at: **ujalasaroj9968@gmail.com**  
@@ -15,21 +16,20 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Connect with Me  
 <p align="left">
-<a href="https://twitter.com/ujalasaroj9968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ujala-saroj-9968s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://kaggle.com/ujala9968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-<a href="https://instagram.com/iujalaaaaaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ujalasaroj9968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mips_2303491530120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ujalasar37yv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
+<a href="https://twitter.com/ujalasaroj9968" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ujala-saroj-9968s" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://kaggle.com/ujala9968" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/iujalaaaaaa_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ujalasaroj9968" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mips_2303491530120" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ujalasar37yv" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
+### 🛠️ Languages & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,36 +40,29 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
-
+### 📊 GitHub Analytics  
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ujala9968&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  
-  <!-- Streak Stats -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujala9968&" alt="ujala9968" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujala9968&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ujala9968&show_icons=true&theme=radical" height="180px" alt="GitHub Stats"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ujala9968&theme=radical" height="180px" alt="GitHub Streak"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujala9968&layout=compact&theme=radical" height="180px" alt="Top Languages"/>  
 
 </div>
 
 ---
 
-<h3 align="center">📈 Contribution Graph</h3>
+### 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujala9968&theme=github-dark" alt="Contribution Graph" />
 </p>
 
-
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+### 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ujala9968&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
 </p>
 
----
 
 
 
