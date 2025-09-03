@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ujala9968&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.demolab.com?user=ujala9968&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=ujala9968&theme=radical&hide_border=false" alt="GitHub Streak" />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujala9968&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
@@ -59,8 +59,9 @@
 
 <h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujala9968&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujala9968&theme=github-dark" alt="Contribution Graph" />
 </p>
+
 
 ---
 
