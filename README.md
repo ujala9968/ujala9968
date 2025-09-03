@@ -41,16 +41,18 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujala9968&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ujala9968&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujala9968&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=ujala9968&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujala9968&theme=react-dark" alt="activity graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujala9968&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+
 
 ---
 
@@ -61,7 +63,6 @@
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ujala9968)
 
 
 
