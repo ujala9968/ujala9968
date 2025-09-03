@@ -5,9 +5,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3753b18a8c7b146e3e7b6d587ee6f72feb44ca788524c36a088659e180ef9c42/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632">
 
+---
+
 - 🔭 I’m currently focusing on **deepening my knowledge in DSA, AI, and problem-solving**  
-- 🌱 I’m currently learning **Data Structure and algorithm on NPTEL**  
-- 📫 How to reach me: **ujalasaroj9968@gmail.com**  
+- 🌱 I’m currently learning **Data Structures and Algorithms on NPTEL**  
+- 📫 Reach me at: **ujalasaroj9968@gmail.com**  
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1JygmDeB4xKC0efUDEh1hwgO_9xHF73CZ/view?usp=drivesdk)  
 - ⚡ Fun fact: *I once debugged an issue for half an hour, only to realize it was a missing semicolon.*  
 
@@ -38,30 +40,38 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
 
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ujala9968&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.demolab.com?user=ujala9968&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujala9968&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+
+</div>
+
+---
+
+<h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujala9968&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujala9968&theme=radical" alt="Contribution Graph" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=ujala9968&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujala9968&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
 
 ---
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujala9968&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ujala9968&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
+
+
 
 
 
