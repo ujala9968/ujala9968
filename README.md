@@ -40,17 +40,6 @@
 
 ---
 
-### 📊 GitHub Analytics  
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ujala9968&show_icons=true&theme=radical" height="180px" alt="GitHub Stats"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ujala9968&theme=radical" height="180px" alt="GitHub Streak"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujala9968&layout=compact&theme=radical" height="180px" alt="Top Languages"/>  
-
-</div>
-
----
-
 ### 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujala9968&theme=github-dark" alt="Contribution Graph" />
