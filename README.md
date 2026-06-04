@@ -11,7 +11,7 @@
 - 🔭 I’m currently focusing on **deepening my knowledge in DSA, AI, and problem-solving**  
 - 🌱 I’m currently learning **Data Structures and Algorithms on NPTEL**  
 - 📫 Reach me at: **ujalasaroj9968@gmail.com**  
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1JygmDeB4xKC0efUDEh1hwgO_9xHF73CZ/view?usp=drivesdk)  
+- 📄 Know about my experiences: [My Portfolio](https://my-portfolio-sigma-neon-26.vercel.app/)  
 - ⚡ Fun fact: *I once debugged an issue for half an hour, only to realize it was a missing semicolon.*  
 
 ---
@@ -40,13 +40,23 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+## 📜 Certifications
+
+- Introduction to Database Systems – NPTEL, IIT Madras
+- React Developer Certificate – EXCELR
+- AI Agents Intensive Course – Google
+- Machine Learning and Artificial Intelligence – Udemy
+- TCS iON Career Edge – Young Professional (2 Weeks)
+- Artificial Intelligence Fundamentals – IBM SkillsBuild
+- Data Visualization Using Python – IBM
+- Postman API Fundamentals Student Expert – Postman
 
 ### 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujala9968&theme=github-dark" alt="Contribution Graph" />
 </p>
 
----
+
 
 ### 🏆 GitHub Trophies  
 <p align="center">
