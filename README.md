@@ -4,10 +4,7 @@
 <h3 align="center">A Prefinal-year Computer Science student passionate about problem-solving and exploring AI-driven solutions</h3>
 
 <h1>Hi 👋, I'm Ujala</h1>
-
-<img align="right" alt="Coding" width="350"
-src="<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">">
-
+<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 - 🌱 Learning DSA & MERN Stack
 - 💻 Solving LeetCode problems
 - 🚀 Building projects
