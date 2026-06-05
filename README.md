@@ -5,8 +5,8 @@
 
 <h1>Hi 👋, I'm Ujala</h1>
 
-<img align="right" alt="Coding" width="400"
-src="<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">">
+<img align="right" alt="Coding" width="350"
+src="<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">">
 
 - 🌱 Learning DSA & MERN Stack
 - 💻 Solving LeetCode problems
