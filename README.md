@@ -3,7 +3,14 @@
 <h1 align="center">Hey 👋, I'm Ujala Saroj</h1>
 <h3 align="center">A Prefinal-year Computer Science student passionate about problem-solving and exploring AI-driven solutions</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3753b18a8c7b146e3e7b6d587ee6f72feb44ca788524c36a088659e180ef9c42/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632">
+<h1>Hi 👋, I'm Ujala</h1>
+
+<img align="right" alt="Coding" width="400"
+src="<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">">
+
+- 🌱 Learning DSA & MERN Stack
+- 💻 Solving LeetCode problems
+- 🚀 Building projects
 
 ---
 
@@ -58,10 +65,6 @@
 
 
 
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujala9968&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
-</p>
 
 
 
