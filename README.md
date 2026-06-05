@@ -1,16 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hey 👋, I'm Ujala Saroj</h1>
-<h3 align="center">A Prefinal-year Computer Science student passionate about problem-solving and exploring AI-driven solutions</h3>
-
-<h1>Hi 👋, I'm Ujala</h1>
-<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<h3 align="center">A final-year Computer Science student passionate about problem-solving and exploring AI-driven solutions</h3>
 - 🌱 Learning DSA & MERN Stack
 - 💻 Solving LeetCode problems
 - 🚀 Building projects
 
 ---
-
 ### 👩‍💻 About Me  
 - 🔭 I’m currently focusing on **deepening my knowledge in DSA, AI, and problem-solving**  
 - 🌱 I’m currently learning **Data Structures and Algorithms on NPTEL**  
@@ -30,7 +26,6 @@
 <a href="https://leetcode.com/u/ujalasaroj9968/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ujalasar37yv" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
 </p>  
-
 
 ---
 
